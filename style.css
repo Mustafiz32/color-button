@@ -1,0 +1,16 @@
+button{
+    background-color: beige;
+}
+
+div{
+    display: flex;
+    padding: 5px;
+    display: inline-block;
+    justify-content: left;
+    text-align: left;
+    margin-left: 200px;
+}
+
+#head{
+    text-align: center;
+}
